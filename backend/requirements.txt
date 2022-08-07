@@ -1,0 +1,13 @@
+flask
+google-cloud-secret-manager
+sqlalchemy
+sqlalchemy-cockroachdb
+psycopg2
+python-dotenv
+google-cloud-storage
+google-cloud-vision
+blake3
+requests
+filetype
+geoalchemy2
+geomet
