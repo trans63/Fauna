@@ -65,4 +65,4 @@ My next steps are probably to work on styling. The back-end is fast, reliable, a
 
 ## Conclusions
 
-Thanks for checking out Fauna! I've put a lot of time and effort into this, so I'm really excited to get some feedback. The app is fully functional!!. Check out the Android and iOS installer files at the links below, or view our code on [Github]() Thanks!
+Thanks for checking out Fauna! I've put a lot of time and effort into this, so I'm really excited to get some feedback. The app is fully functional!!. Check out the Android and iOS installer files at the links below, or view our code on [Github](https://github.com/trans63/Fauna) Thanks!
