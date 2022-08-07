@@ -1,7 +1,6 @@
 # Fauna
 Live and Let Live - Using AI and Crowdsourcing to stop animal attacks.
 
-Submission - [Devpost](https://devpost.com/software/fauna-glc25a)
 ## Inspiration
 Animals are everywhere, right? Even in the Bay Area, where we have everything from snakes to mountain lions to bobcats. Though some animals are a man's best friend, like your very own dog, some are the best enemies as well. Humans and nature are always at conflict.
 
